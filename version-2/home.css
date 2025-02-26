@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    flex-flow: row;
+    background-color: #8bc34a;
+    border-radius: 8px;
+    margin:6px;
+    padding:2px;
+}
+.title{
+    background-color:#083e0cfa;
+    font-weight: 900;
+    border-radius:12px;
+    margin:6px;
+    padding:2px;
+}
+.ni{
+    display: block;
+    border-radius: 8px;
+    background-color: #cddc39;
+    margin:6px;
+    padding:2px;
+}
