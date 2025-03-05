@@ -8,7 +8,7 @@
 </head>
 <nav>
 <div class="topnav">
-  <a  href="home.php" class="active">Up to the minute</a>
+  <a  href="index.php" class="active">Up to the minute</a>
   <a href="timetable.php" class="item">my timetables</a>
   <a href="ctimetable.php" class="item">class timetables</a>
   <a href="products.php" class="item">products</a>
@@ -23,6 +23,3 @@
    
 </nav>
 <body>
-    
-</body>
-</html>

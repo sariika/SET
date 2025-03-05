@@ -1,4 +1,5 @@
 /* Desktop and larger screens */
+
 .topnav {
     display: flex;
     align-items: center;
@@ -48,6 +49,7 @@
 }
 
 
+
 /* Mobile version (max-width: 600px) */
 @media (max-width: 600px) {
     .topnav {
@@ -87,8 +89,7 @@
         
         
     }
-     
-
+    
     
 
     /* Styling for menu items when menu is visible */
