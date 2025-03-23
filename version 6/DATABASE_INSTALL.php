@@ -1,6 +1,6 @@
 <?php
 //127.0.0.1 port 3306 user root no password
-require "userdb_config.php";
+require "pruserdb_config.php";
 try {
     $connection = new PDO("mysql:host=$host", $username, $password,
     $options);

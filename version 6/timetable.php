@@ -104,7 +104,6 @@
   <div class="control">
     <button><a href='update_timetable.php' class="update" >update</a></button>
     <button ><a href='deleteTimetable.php' class="update" >delete</a></button>
-    <button >Create</button>
     <button type="button"  data-bs-toggle="modal" data-bs-target="#exampleModal">
       Add
     </button>
