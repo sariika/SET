@@ -1,0 +1,5 @@
+USE checkout;
+
+SHOW TABLES;
+
+SELECT * FROM CUSTOMERS
