@@ -1,0 +1,57 @@
+input[type=text], select{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+    input[type=date], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+    input[type=time], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+
+    input[type="submit"],select {
+        padding: 12px;
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        font-size: 1em;
+        cursor: pointer;
+        border-radius: 4px;
+        transition: background-color 0.3s;
+        margin-bottom: 5px;
+    }
+
+    input[type="button"] {
+        padding: 12px 15px;
+        
+        background-color: red;
+        border: none;
+        color: white;
+        font-size: 1em;
+        cursor: pointer;
+        border-radius: 4px;
+        transition: background-color 0.3s;
+    }
+
+#add-form{
+    margin:12px 10px;
+    padding:24px 15px;
+    
+}
