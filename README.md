@@ -3,3 +3,23 @@ Version 2 was created on 26th feb 2025
 version 3 on a different git account
 version 4 created on 2nd march
 
+
+Contribution :
+
+Alisha: Products page and cart 
+Darragh: Login and signup page
+Sarika: Homepage and Timetable page
+
+
+Resources:
+
+https://www.w3schools.com/php/func_var_unset.asp
+https://www.geeksforgeeks.org/php-unset-function/
+
+To Create tables in the database
+Run 
+
+DATABASE_INSTALL 
+CartDB
+timetable_database
+
