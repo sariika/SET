@@ -15,6 +15,9 @@ Resources:
 
 https://www.w3schools.com/php/func_var_unset.asp
 https://www.geeksforgeeks.org/php-unset-function/
+https://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
+https://www.w3schools.com/css/tryit.asp?filename=trycss_forms 
+bootstrap for modal view in timetable
 
 To Create tables in the database
 Run 
